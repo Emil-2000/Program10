@@ -13,6 +13,7 @@ namespace Program10
     class DataSet
     {
 
+
         /// <summary>
         /// Показатель степени полинома
         /// </summary>
